@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mersy11dan
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning Java and phython
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java,phython and database
+- 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me mersy11dan@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Information System student
+- ⚡ Fun fact: Information System undergrad student
 
 <!---
 mersy11dan/mersy11dan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
