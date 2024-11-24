@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @mersy11dan
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning Java,phython and database
+- 🌱 I’m currently learning Javascript, react and c#
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me mersy11dan@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Information System undergrad student
 
 <!---
